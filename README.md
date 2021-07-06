@@ -4,9 +4,9 @@
 
 > [파이썬 머신러닝 완벽가이드](https://github.com/wikibook/pymldg-rev ) 내용을 기준으로 진행합니다.
 
-**Schedule** :  월, 목 오후 8시 ML 스터디 진행
+**Schedule** :  `월, 목 오후 8시 ML 스터디 진행`
 
-**Self-study** : 스터디 진행 후 학습 내용을 정리하여 업로드합니다.
+**Self-study** : `스터디 진행 후 학습 내용을 정리하여 업로드합니다.`
 
 ## Study Tracker
 
@@ -37,7 +37,7 @@
 
 -----
 
-# [파이썬 머신러닝 완벽가이드](https://github.com/wikibook/pymldg-rev ) 
+# 🔗 [파이썬 머신러닝 완벽가이드](https://github.com/wikibook/pymldg-rev ) 
 
 
 
@@ -47,7 +47,7 @@
 
 ### 03. 평가
 
-### 04. 분류
+### 04. 분류 (~ing🔥)
 
 ### 05. 회귀
 
